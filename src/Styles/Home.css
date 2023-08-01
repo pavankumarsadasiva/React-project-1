@@ -1,0 +1,40 @@
+.head1{
+    display: flex;
+    justify-content: space-around;
+    position:relative;
+    bottom: 70px;
+    
+    
+}
+.head2:hover{
+     background:linear-gradient(to right,rgb(33, 188, 199),orange,rgb(209, 44, 187));
+     z-index: 1;
+
+}
+.head3:hover{
+    
+    background:linear-gradient(to right,rgb(88, 74, 216),#ff00ff)
+
+}
+.head4:hover{
+   
+    background:linear-gradient(to right,rgb(43, 243, 93),orange)
+}
+.head2{
+    display: flex;
+    padding: 10px;
+    border: 1px solid white;
+    background-color: whitesmoke;
+}
+.head3{
+    display: flex;
+    padding: 10px;
+    border: 1px solid white;
+    background-color: whitesmoke;
+}
+.head4{
+    display: flex;
+    padding: 10px;
+    border: 1px solid white;
+    background-color: whitesmoke;
+}
